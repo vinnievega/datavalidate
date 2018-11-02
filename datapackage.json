@@ -1,0 +1,94 @@
+{
+  "name": "my-dataset",
+  "title": "My dataset",
+  "resources": [
+    {
+      "name": "siteImport",
+      "path": "siteImport.txt",
+      "schema": {
+        "fields": [
+          {
+            "name": "SiteCode",
+            "type": "string",
+            "description": "SiteCode"
+          },
+          {
+            "name": "SiteName",
+            "type": "string",
+            "description": "SiteName"
+          },
+          {
+            "name": "LocAddr1",
+            "type": "string",
+            "description": "Location Address 1"
+          },
+          {
+            "name": "LocAddr2",
+            "type": "string",
+            "description": "Location Address 2"
+          },
+          {
+            "name": "LocCity",
+            "type": "string",
+            "description": "Location City"
+          },
+          {
+            "name": "LocSt",
+            "type": "string",
+            "description": "Location Street"
+          },
+          {
+            "name": "LocZip",
+            "type": "number",
+            "description": "Location Address 1"
+          },
+          {
+            "name": "LocTypeDesc",
+            "type": "string",
+            "description": "Location Type Description"
+          },
+          {
+            "name": "DistictName",
+            "type": "string",
+            "description": "District Name"
+          },
+          {
+            "name": "DistrictCode",
+            "type": "string",
+            "description": "District Code"
+          },
+          {
+            "name": "CountyName",
+            "type": "string",
+            "description": "County Name"
+          },
+          {
+            "name": "CountyCode",
+            "type": "string",
+            "description": "County Code"
+          },
+          {
+            "name": "RegionName",
+            "type": "string",
+            "description": "Region Name"
+          },
+          {
+            "name": "RegionCode",
+            "type": "string",
+            "description": "Region Code"
+          },
+          {
+            "name": "StateName",
+            "type": "string",
+            "description": "State Name"
+          },
+          {
+            "name": "CountryName",
+            "type": "string",
+            "description": "Country Name"
+          }   
+        ]
+      }
+    }
+  ]
+}
