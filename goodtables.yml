@@ -1,5 +1,5 @@
 files:
-  - source: siteImport.txt
+  - source: siteImport.csv
     schema: datapackage.json
     delimiter: |
     doublequote: True
