@@ -1,12 +1,13 @@
 files:
   - source: siteImport.txt
-    delimiter: '|'
+    schema: datapackage.json
+    delimiter: |
     doublequote: True
     escapechar: \
     lineterminator: \r\n
 
 datapackages:
-  - 'datapackage.json'
+  - datapackage.json
   
 settings:
   checks:
