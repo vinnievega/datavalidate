@@ -1,6 +1,6 @@
 files:
   - source: siteImport.txt
-    delimiter: |
+    delimiter: '|'
     doublequote: True
     escapechar: \
     lineterminator: \r\n
