@@ -1,3 +1,7 @@
 files:
   - source: siteImport.txt
     schema: datapackage.json
+    delimiter: |
+    doublequote: True
+    escapechar: \
+    lineterminator: \r\n
