@@ -1,2 +1,0 @@
-SiteCode|SiteName|LocAddr1|LocAddr2|LocCity|LocSt|LocZip|LocTypeDesc|DistrictName|DistrictCode|CountyName|CountyCode|RegionName|RegionCode|StateName|CountryName
-000 |DISTRICT WIDE|||||||DISTRICT|DISTRICT|Vinnie|Vinnie|Vinnie|Vinnie|Utah|USA
