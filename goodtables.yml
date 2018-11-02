@@ -1,0 +1,7 @@
+files:
+  - source: siteImport.txt
+    delimiter: |
+    doublequote: True
+    escapechar: \
+    lineterminator: \r\n
+    quotechar: "
