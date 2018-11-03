@@ -39,7 +39,7 @@
           },
           {
             "name": "LocZip",
-            "type": "number",
+            "type": "string",
             "description": "Location Address 1"
           },
           {
