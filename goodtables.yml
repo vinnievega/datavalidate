@@ -1,7 +1,7 @@
 files:
-  - source: test.csv
-    schema: datapackagesample.json
-    delimiter: '|'
+  - source: test2.csv
+    schema: datapackageexample.json
+    delimiter: ','
     doublequote: True
     escapechar: \
     lineterminator: \r\n
