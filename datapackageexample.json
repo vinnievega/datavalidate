@@ -1,9 +1,8 @@
     {
       "name": "my-dataset",
-      # here we list the data files in this dataset
       "resources": [
         {
-          "path": "data.csv",
+          "path": "test2.csv",
           "schema": {
             "fields": [
               {
