@@ -1,6 +1,6 @@
 files:
-  - source: siteImport.csv
-    schema: datapackage.json
+  - source: test.csv
+    schema: datapackagesample.json
     delimiter: '|'
     doublequote: True
     escapechar: \
