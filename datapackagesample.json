@@ -1,0 +1,37 @@
+{
+  "name": "my-dataset",
+  "title": "My dataset",
+  "resources": [
+    {
+      "name": "my-data",
+      "path": "data/data.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "date",
+            "type": "date",
+            "description": "The transaction date"
+          },
+          {
+            "name": "from",
+            "type": "string",
+            "description": "Payer"
+          },
+          {
+            "name": "to",
+            "type": "string",
+            "description": "Payee"
+          },
+          {
+            "name": "amount",
+            "type": "number",
+            "description": "Transaction value in Euros",
+            "constraints": {
+              "minimum": 0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
